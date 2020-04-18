@@ -36,10 +36,4 @@ print(all_info)
 
 
     
-    
-# steps
-# y = re.split(', | and', x)
-# [item.strip(' ') for item in y]
-# y1 = y[0];y2 = y[1:]
-# for item in y2:
-	#print(y1,"",item)
+   
